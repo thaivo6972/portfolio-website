@@ -31,6 +31,6 @@ Simply open the index.html file in any modern web browser.
 - Accessibility: Using semantic tags and ARIA labels to ensure baseline compliance.
 
 ## Author
-Quoc Vo Computer Information Systems Student
+Quoc Thai Vo Computer Information Systems Student
 
 SUNY Brockport
